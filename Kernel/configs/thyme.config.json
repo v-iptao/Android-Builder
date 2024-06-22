@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/Mudit200408/android_kernel_xiaomi_sm8250",
+      "branch": "14",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
